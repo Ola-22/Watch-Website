@@ -36,9 +36,17 @@
   text-overflow: ellipsis;
 }
 
+
+.card .box h4{
+  color: crimson;
+}
 .card .box p{
   margin: 10px 0;
   line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  height: 70px;
 }
 
 .card .box button{
