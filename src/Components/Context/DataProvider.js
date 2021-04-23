@@ -20,6 +20,7 @@ export default function DataProvider(props) {
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 101,
+      count: 1,
     },
     {
       _id: "2",
@@ -37,6 +38,7 @@ export default function DataProvider(props) {
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 102,
+      count: 1,
     },
 
     {
@@ -55,6 +57,7 @@ export default function DataProvider(props) {
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 103,
+      count: 1,
     },
 
     {
@@ -73,6 +76,7 @@ export default function DataProvider(props) {
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 104,
+      count: 1,
     },
 
     {
@@ -91,6 +95,7 @@ export default function DataProvider(props) {
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 105,
+      count: 1,
     },
 
     {
@@ -109,6 +114,7 @@ export default function DataProvider(props) {
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 106,
+      count: 1,
     },
   ]);
 
